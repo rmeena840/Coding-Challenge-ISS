@@ -1,0 +1,27 @@
+h1 {
+  font-size: 20px;
+  margin: 0 0 10px 0;
+}
+
+.card {
+  padding: 20px;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #d8d8d8;
+}
+
+.active {
+  background-color: yellow;
+}
+
+img {
+  border-radius: 3px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.back {
+  height: 445px;
+  background-color: lightgreen;
+}
